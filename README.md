@@ -31,16 +31,20 @@ To install and run this project locally, follow these steps:
    ```sh
    git clone https://github.com/Madieyeee/Projet-ISI-Semestre3.git
 2. Navigate to the project directory:
+    ```sh
     cd votre-repository
 3. Install the necessary dependencies: 
+    ```sh
     composer install
     npm install
 4. Set up the database
     Import the database.sql file into your database server.
     Update the config.php file with your database connection information.
 5. Start the local server:
+    ```sh
     php -S localhost:8000
 6. Open your browser and go to:
+    ```sh
     http://localhost:8000
 
 ## Usage
