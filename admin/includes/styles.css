@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('bg.jpg') no-repeat  fixed;
+    background-size: cover;
+    /* color: white; */
+    /* margin: 0;
+    padding: 0%; */
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 1em;
+}
+
+.dashboard {
+    max-width: 1200px;
+    margin: 2em auto;
+    padding: 2em;
+    background-color: rgba(192, 192, 192, 0.5);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+h1, h2 {
+    color: #0044cc;
+}
+a {
+    color: #0044cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

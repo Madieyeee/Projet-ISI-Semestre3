@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #0044cc;
+    color: white;
+    padding: 1em;
+}
+.dashboard {
+    padding: 2em;
+    background-color: white;
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px; */
+}
+h1, h2 {
+    color: #0044cc;
+}
+a {
+    color: #0044cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
